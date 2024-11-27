@@ -1,0 +1,34 @@
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.exe.config
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.exe
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.pdb
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.AssemblyReference.cache
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form1.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Properties.Resources.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.GenerateResource.cache
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.exe
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.pdb
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form_02.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form_03.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.MyConsole.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_1.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_2.resources
+D:\Рабочий стол\_Учёба 2022\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_3.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.exe.config
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.exe
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\bin\Debug\Coursework_07.pdb
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.AssemblyReference.cache
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_1.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_2.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form1.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form_02.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Form_03.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.MyConsole.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Properties.Resources.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.GenerateResource.cache
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.exe
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.pdb
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.Otchet.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_3.resources
+D:\Рабочий стол\Учёба 3й курс 2022\Учёба 2022 2й курс\Структуры данных\0_Курсовая\Coursework_07\Coursework_07\obj\Debug\Coursework_07.DebuggingWindow_4.resources

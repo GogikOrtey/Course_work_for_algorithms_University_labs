@@ -1,0 +1,84 @@
+Завершение программы
+
+ Environment.Exit(0);
+
+	Шаблонная функция для вывода в консоль
+
+    public static void cout<Type>(Type Input)
+    {
+        Console.WriteLine(Input);
+    }
+
+	Генерация случайных числе
+
+Random Random = new Random(); 
+переменная = rand.Next(от, до);
+
+	Отделение фрагментов кода
+
+{
+
+}
+
+#region Имя региона
+#endregion
+
+	Массив строк
+
+string[] stringArray = new string[10];
+
+	Создание новой формы
+
+Form_02 form_02 = new Form_02();
+
+	Преобразовать string в число
+
+int adrInp;
+int.TryParse(Inp, out adrInp);
+
+	Получить имя объекта из события 
+
+string Name = ((Button)sender).Name;
+
+	Все данные из текстового файла в массив строк:
+
+InputFileStr = File.ReadAllLines(fileName_Way);
+string[] InputFileStr;
+
+	Заменить одни символы на другие, в строке
+
+str = str.Replace(":", ".");
+
+	Получить текущую дату и время
+
+string str = DateTime.Now.ToString();
+
+	Встроенная структура, для работы с датой и временем
+
+DateTime dateTime = new DateTime();
+
+	Вывод одноразового окна
+
+string s1 = "Длинна ФИО превышает допустимую";
+MessageBox.Show(s1, "Ошибка!");
+
+Проверка существования указанного файла
+
+File.Exists(comboMainWay)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
